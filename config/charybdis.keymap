@@ -16,16 +16,15 @@
 / {
 
     behaviors {
-     hm: homerow_mod {
-       compatible = "zmk,behavior-hold-tap";
-       label = "HM";                  /* <-- REQUERIDO */
-       #binding-cells = <2>;
-       flavor = "tap-preferred";
-       tapping-term-ms = <175>;
-       quick-tap-ms = <160>;
-       require-prior-idle-ms = <185>;
-       bindings = <&kp>, <&kp>;
-     };
+        hm: homerow_mod {
+          compatible = "zmk,behavior-hold-tap";
+          label = "HM";
+          #binding-cells = <2>;
+          flavor = "tap-preferred";
+          tapping-term-ms = <170>;   // prueba 160–180
+          quick-tap-ms    = <155>;   // ~15 ms menos que tapping-term
+          bindings = <&kp>, <&kp>;   // hold, tap
+        };
     };
     combos {
         compatible = "zmk,combos";
