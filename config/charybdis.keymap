@@ -13,18 +13,20 @@
 / {
 
     behaviors {
-                hm: homerow_mod {
+            hm: homerow_mod {
                     compatible = "zmk,behavior-hold-tap";
                     label = "HM";
+                    #binding-cells = <2>;
                     flavor = "tap-preferred";
                     tapping-term-ms = <170>;   // prueba 160–180
                     quick-tap-ms    = <155>;   // ~15 ms menos que tapping-term
                     bindings = <&kp>, <&kp>;   // hold, tap
-                };
+            };
 
                 hmsh: homerow_mod_short {
                     compatible = "zmk,behavior-hold-tap";
                     label = "HMSH";
+                    #binding-cells = <2>;
                     flavor = "tap-preferred";
                     tapping-term-ms = <155>;
                     quick-tap-ms    = <130>;
@@ -34,6 +36,7 @@
                 hm_right: homerow_mod_right {
                     compatible = "zmk,behavior-hold-tap";
                     label = "HM_R";
+                    #binding-cells = <2>;
                     flavor = "balanced";      // o "tap-preferred" si quieres menos holds accidentales
                     tapping-term-ms = <190>;  // prueba 185–200 según tu mano/dedos
                     quick-tap-ms    = <165>;  // ~15–25 ms por debajo de tapping-term
@@ -43,6 +46,7 @@
                 hm_s: homerow_mod_special {
                     compatible = "zmk,behavior-hold-tap";
                     label = "HM_R";
+                    #binding-cells = <2>;
                     flavor = "balanced";      // o "tap-preferred" si quieres menos holds accidentales
                     tapping-term-ms = <210>;  // prueba 185–200 según tu mano/dedos
                     quick-tap-ms    = <180>;  // ~15–25 ms por debajo de tapping-term
@@ -52,12 +56,15 @@
                 td_dc: td_v_cot_comma {
                     compatible = "zmk,behavior-tap-dance";
                     label = "TD_DC";
+                    #binding-cells = <0>;
                     tapping-term-ms = <175>;
                     bindings = <&hm LBRC B>, <&kp COMMA>;
                 };
+
         td_cursor: td_scroll_or_cursor {
             compatible = "zmk,behavior-tap-dance";
             label = "TD_CURSOR";
+            #binding-cells = <0>;
             bindings = <&lt 9 ESC>, <&mkp RCLK>; // hold, tap, double_tap
         };
 
