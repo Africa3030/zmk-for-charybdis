@@ -43,7 +43,7 @@
                     bindings = <&kp>, <&kp>;  // hold, tap
                 };
 
-                hm_right: homerow_mod_right {
+                hm_s: homerow_mod_special {
                     compatible = "zmk,behavior-hold-tap";
                     label = "HM_R";
                     #binding-cells = <2>;
