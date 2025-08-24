@@ -13,14 +13,14 @@
 / {
 
     behaviors {
-            hm: homerow_mod {
+                hm: homerow_mod {
                     compatible = "zmk,behavior-hold-tap";
                     label = "HM";
                     flavor = "tap-preferred";
                     tapping-term-ms = <170>;   // prueba 160–180
                     quick-tap-ms    = <155>;   // ~15 ms menos que tapping-term
                     bindings = <&kp>, <&kp>;   // hold, tap
-            };
+                };
 
                 hmsh: homerow_mod_short {
                     compatible = "zmk,behavior-hold-tap";
