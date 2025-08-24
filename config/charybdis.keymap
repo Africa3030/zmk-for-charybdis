@@ -60,7 +60,11 @@
                     tapping-term-ms = <175>;
                     bindings = <&hm LBRC B>, <&kp COMMA>;
                 };
-
+        td_cursor: td_scroll_or_cursor {
+            compatible = "zmk,behavior-tap-dance";
+            label = "TD_CURSOR";
+            bindings = <&lt 9 ESC>, <&mkp RCLK>; // hold, tap, double_tap
+        };
 
     };
 
