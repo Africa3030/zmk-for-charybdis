@@ -50,7 +50,10 @@
 		status = "disabled";
 		reg = <0>;
 		label = "TRACKBALL";
-		spi-max-frequency = <2000000>;
-		duplex = <2048>; // required by 3-wire spi
+			spi-max-frequency = <2000000>;
+    		duplex = <2048>;                // 3-wire (half-duplex)
+    		res-cpi = <2000>;               // <- más alto = puntero más rápido
+    		smart-mode;                     // opcional: mejora el tracking
+    		/* invert-x; invert-y; */       // opcional: invierte ejes si hace falta
 	};
 };
