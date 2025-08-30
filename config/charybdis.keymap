@@ -4,7 +4,6 @@
 #include <dt-bindings/zmk/mouse.h>
 #include "macros.dtsi"
 
-
 &lt {
     tapping-term-ms = <200>;
     flavor = "balanced";
