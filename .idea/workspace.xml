@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="fix: remove unused macro inclusion and clean up keymap bindings" />
+    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="feat: add recent keys for config directory in workspace configuration">
+      <change beforePath="$PROJECT_DIR$/config/charybdis.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/charybdis.keymap" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756037128608</updated>
       <workItem from="1756037129665" duration="6038000" />
-      <workItem from="1756582948630" duration="569000" />
+      <workItem from="1756582948630" duration="1843000" />
     </task>
     <task id="LOCAL-00001" summary="feat: .gitignore and update charybdis.keymap and workspace.xml">
       <option name="closed" value="true" />
@@ -95,7 +97,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756583513888</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix: update workspace and keymap configuration for consistency">
+      <option name="closed" value="true" />
+      <created>1756583719882</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756583719882</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: add recent keys for config directory in workspace configuration">
+      <option name="closed" value="true" />
+      <created>1756583748381</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756583748381</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +124,8 @@
     <MESSAGE value="feat: add macros for common git commands and update keymap configuration" />
     <MESSAGE value="fix: update keymap and workspace configuration for consistency" />
     <MESSAGE value="fix: remove unused macro inclusion and clean up keymap bindings" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: remove unused macro inclusion and clean up keymap bindings" />
+    <MESSAGE value="fix: update workspace and keymap configuration for consistency" />
+    <MESSAGE value="feat: add recent keys for config directory in workspace configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add recent keys for config directory in workspace configuration" />
   </component>
 </project>
