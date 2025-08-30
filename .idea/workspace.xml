@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="fix: update keymap to enhance layout and improve consistency for numeric key bindings">
+    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="fix: update keymap to correct numeric key binding for LGUI N">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/charybdis.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/charybdis.keymap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,22 +24,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;vesion01&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/africacampmany/zmk/zmk-for-charybdis/config/boards/shields/charybdis&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "vesion01",
+    "last_opened_file_path": "/Users/africacampmany/zmk/zmk-for-charybdis/config/boards/shields/charybdis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/config/boards/shields/charybdis" />
@@ -65,7 +66,7 @@
       <workItem from="1756037129665" duration="6038000" />
       <workItem from="1756582948630" duration="3373000" />
       <workItem from="1756587484297" duration="444000" />
-      <workItem from="1756587988470" duration="685000" />
+      <workItem from="1756587988470" duration="1899000" />
     </task>
     <task id="LOCAL-00001" summary="feat: .gitignore and update charybdis.keymap and workspace.xml">
       <option name="closed" value="true" />
@@ -155,7 +156,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756588057709</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fix: update keymap to correct layout and enhance consistency for numeric key bindings">
+      <option name="closed" value="true" />
+      <created>1756588806137</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1756588806137</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix: update keymap to correct numeric key binding for LGUI N">
+      <option name="closed" value="true" />
+      <created>1756589116060</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1756589116060</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +189,8 @@
     <MESSAGE value="feat: update keymap and workspace configuration for numeric keys" />
     <MESSAGE value="fix: update keymap to correct numeric key bindings and improve consistency" />
     <MESSAGE value="fix: update keymap to enhance layout and improve consistency for numeric key bindings" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: update keymap to enhance layout and improve consistency for numeric key bindings" />
+    <MESSAGE value="fix: update keymap to correct layout and enhance consistency for numeric key bindings" />
+    <MESSAGE value="fix: update keymap to correct numeric key binding for LGUI N" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: update keymap to correct numeric key binding for LGUI N" />
   </component>
 </project>
