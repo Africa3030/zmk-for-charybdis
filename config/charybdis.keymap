@@ -101,7 +101,7 @@
 &kp LG(Z)               &none                   &none                   &kp BACKSPACE               &none           &none           &none       &none               &none                   &hm F5 N5                       &hm F6 N6                       &none
 &kp LG(A)               &kp LG(X)               &kp LG(C)               &kp LG(V)                   &kp LG(TAB)     &none           &none       &kp N0              &hm F1 N1               &hm F2 N2                       &hm F3 N3                       &none
 &trans                  &trans                  &kp RETURN              &trans                      &trans          &none           &none       &trans              &trans                  &trans                          &trans                          &trans
-&trans                  &trans                  &trans                  &trans                      &hm F4 N4       &none           &none       &trans              &trans                  &trans                          &trans                          &trans
+&trans                  &trans                  &trans                  &trans                      &kp N4       &none           &none       &trans              &trans                  &trans                          &trans                          &trans
 &trans                  &trans                  &trans                  &trans                      &trans          &none           &none       &trans              &trans                  &trans                          &trans                          &trans
             >;
         };
