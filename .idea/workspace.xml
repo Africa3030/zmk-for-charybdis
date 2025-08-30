@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="fix: update keymap to correct numeric key bindings and improve consistency" />
+    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="fix: update keymap to enhance layout and improve consistency for numeric key bindings">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +64,7 @@
       <updated>1756037128608</updated>
       <workItem from="1756037129665" duration="6038000" />
       <workItem from="1756582948630" duration="3373000" />
+      <workItem from="1756587484297" duration="444000" />
     </task>
     <task id="LOCAL-00001" summary="feat: .gitignore and update charybdis.keymap and workspace.xml">
       <option name="closed" value="true" />
@@ -135,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756586326193</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix: update keymap to enhance layout and improve consistency for numeric key bindings">
+      <option name="closed" value="true" />
+      <created>1756587558231</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756587558231</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +162,7 @@
     <MESSAGE value="feat: update workspace and keymap configuration for recent keys" />
     <MESSAGE value="feat: update keymap and workspace configuration for numeric keys" />
     <MESSAGE value="fix: update keymap to correct numeric key bindings and improve consistency" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: update keymap to correct numeric key bindings and improve consistency" />
+    <MESSAGE value="fix: update keymap to enhance layout and improve consistency for numeric key bindings" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: update keymap to enhance layout and improve consistency for numeric key bindings" />
   </component>
 </project>

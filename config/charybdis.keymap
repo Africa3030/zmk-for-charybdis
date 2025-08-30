@@ -88,7 +88,7 @@
  &kp A                  &hm LALT S                &hm LCTRL R               &hm_s LGUI T            &hm LPAR D                  &none           &none       &hm LBKT M          &hm_right LGUI N        &hm_right LCTRL E               &hm_right LALT I                &hm LG(S) O
  &hmsh LSHFT Z          &hm LG(X) X               &hm  LG(C) C              &hm LG(V) V             &td_dc                      &none           &none       &hm LT K            &mkp LCLK               &td_cursor                      &hm_right PLUS H                &hmsh RSHFT FSLH
  &none                  &none                     &mt LG(TAB) TAB           &lt 3 DOT               &lt 1 SPACE                 &none           &none       &lt 2 RETURN        &kp BACKSPACE           &trans                          &trans                          &trans
- &trans                 &trans                    &trans                    &trans                  &hm_right LGUI N            &none           &none       &trans              &trans                  &trans                          &trans                          &trans
+ &trans                 &trans                    &trans                    &trans                  &lt LGUI N            &none           &none       &trans              &trans                  &trans                          &trans                          &trans
  &trans                 &trans                    &trans                    &trans                  &trans                      &none           &none       &trans              &trans                  &trans                          &trans                          &trans
             >;
 
