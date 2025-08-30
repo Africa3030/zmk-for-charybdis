@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="" />
+    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/config/charybdis.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/charybdis.keymap" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="31jUlje1siTdl5MHQfAFTrYKQ2K" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,7 +28,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "vesion01",
     "last_opened_file_path": "/Users/africacampmany/zmk/zmk-for-charybdis",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
