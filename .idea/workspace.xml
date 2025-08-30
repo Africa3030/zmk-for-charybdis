@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="feat: update workspace and keymap configuration for recent keys">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/charybdis.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/charybdis.keymap" afterDir="false" />
-    </list>
+    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="fix: update keymap to correct numeric key bindings and improve consistency" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756037128608</updated>
       <workItem from="1756037129665" duration="6038000" />
-      <workItem from="1756582948630" duration="2904000" />
+      <workItem from="1756582948630" duration="3373000" />
     </task>
     <task id="LOCAL-00001" summary="feat: .gitignore and update charybdis.keymap and workspace.xml">
       <option name="closed" value="true" />
@@ -122,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756584865445</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: update keymap and workspace configuration for numeric keys">
+      <option name="closed" value="true" />
+      <created>1756585872939</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756585872939</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix: update keymap to correct numeric key bindings and improve consistency">
+      <option name="closed" value="true" />
+      <created>1756586326193</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756586326193</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +149,8 @@
     <MESSAGE value="fix: update workspace and keymap configuration for consistency" />
     <MESSAGE value="feat: add recent keys for config directory in workspace configuration" />
     <MESSAGE value="feat: update workspace and keymap configuration for recent keys" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: update workspace and keymap configuration for recent keys" />
+    <MESSAGE value="feat: update keymap and workspace configuration for numeric keys" />
+    <MESSAGE value="fix: update keymap to correct numeric key bindings and improve consistency" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: update keymap to correct numeric key bindings and improve consistency" />
   </component>
 </project>
