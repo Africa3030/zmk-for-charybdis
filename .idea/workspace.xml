@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="feat: add recent keys for config directory in workspace configuration">
+    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="feat: update workspace and keymap configuration for recent keys">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/charybdis.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/charybdis.keymap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756037128608</updated>
       <workItem from="1756037129665" duration="6038000" />
-      <workItem from="1756582948630" duration="1843000" />
+      <workItem from="1756582948630" duration="2904000" />
     </task>
     <task id="LOCAL-00001" summary="feat: .gitignore and update charybdis.keymap and workspace.xml">
       <option name="closed" value="true" />
@@ -113,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756583748381</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: update workspace and keymap configuration for recent keys">
+      <option name="closed" value="true" />
+      <created>1756584865445</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756584865445</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +135,7 @@
     <MESSAGE value="fix: remove unused macro inclusion and clean up keymap bindings" />
     <MESSAGE value="fix: update workspace and keymap configuration for consistency" />
     <MESSAGE value="feat: add recent keys for config directory in workspace configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add recent keys for config directory in workspace configuration" />
+    <MESSAGE value="feat: update workspace and keymap configuration for recent keys" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: update workspace and keymap configuration for recent keys" />
   </component>
 </project>
