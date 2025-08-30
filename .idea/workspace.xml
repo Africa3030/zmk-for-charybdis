@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/config/charybdis.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/charybdis.keymap" afterDir="false" />
+    <list default="true" id="20876aca-0a2c-4cf7-8317-0c4dfea36723" name="Changes" comment="feat: .gitignore and update charybdis.keymap and workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,9 +60,22 @@
       <updated>1756037128608</updated>
       <workItem from="1756037129665" duration="6038000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: .gitignore and update charybdis.keymap and workspace.xml">
+      <option name="closed" value="true" />
+      <created>1756580973543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756580973543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: .gitignore and update charybdis.keymap and workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: .gitignore and update charybdis.keymap and workspace.xml" />
   </component>
 </project>
