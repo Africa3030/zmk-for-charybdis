@@ -119,9 +119,9 @@
 
         Mouse {
             bindings = <
-&trans                  &trans                  &trans                  &trans                      &trans          &none           &none       &trans              &trans                  &trans                          &trans                          &trans
-&trans                  &trans                  &trans                  &trans                      &trans          &none           &none       &trans              &trans                  &trans                          &trans                          &trans
-&trans                  &trans                  &trans                  &trans                      &trans          &none           &none       &trans              &trans                  &trans                          &trans                          &trans
+&kp GRAVE               &kp APOS                &kp DQT                 &kp DLLR                    &trans          &none           &none       &trans              &kp PRCNT               &kp CARET                       &kp AMPS                        &kp ASTRK
+&kp TILDE               &kp EXCL                &kp AT                  &kp HASH                    &kp RPAR        &none           &none       &kp RBKT            &kp PIPE                &kp MINUS                       &kp EQUAL                       &kp QMARK
+&trans                  &trans                  &trans                  &trans                      &kp RBRC        &none           &none       &kp GT              &trans                  &kp UNDER                       &kp PLUS                        &kp BSLH
 &trans                  &trans                  &trans                  &trans                      &trans          &none           &none       &trans              &trans                  &trans                          &trans                          &trans
 &trans                  &trans                  &trans                  &trans                      &trans          &none           &none       &trans              &trans                  &trans                          &trans                          &trans
 &trans                  &trans                  &trans                  &trans                      &trans          &none           &none       &trans              &trans                  &trans                          &trans                          &trans
